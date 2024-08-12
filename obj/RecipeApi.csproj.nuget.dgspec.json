@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\edwar\\Edward Filesssss\\Edward Workspace\\RecipeApi\\RecipeApi.csproj": {}
+    "C:\\Users\\edwar\\Edward Filesssss\\Edward Workspace\\RecipeApi\\RecipeApi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\edwar\\Edward Filesssss\\Edward Workspace\\RecipeApi\\RecipeApi.csproj": {
+    "C:\\Users\\edwar\\Edward Filesssss\\Edward Workspace\\RecipeApi\\RecipeApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\edwar\\Edward Filesssss\\Edward Workspace\\RecipeApi\\RecipeApi.csproj",
+        "projectUniqueName": "C:\\Users\\edwar\\Edward Filesssss\\Edward Workspace\\RecipeApi\\RecipeApi.csproj",
         "projectName": "RecipeApi",
-        "projectPath": "c:\\Users\\edwar\\Edward Filesssss\\Edward Workspace\\RecipeApi\\RecipeApi.csproj",
+        "projectPath": "C:\\Users\\edwar\\Edward Filesssss\\Edward Workspace\\RecipeApi\\RecipeApi.csproj",
         "packagesPath": "C:\\Users\\edwar\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\edwar\\Edward Filesssss\\Edward Workspace\\RecipeApi\\obj\\",
+        "outputPath": "C:\\Users\\edwar\\Edward Filesssss\\Edward Workspace\\RecipeApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\edwar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -50,6 +50,10 @@
               "target": "Package",
               "version": "[8.0.7, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -61,6 +65,8 @@
               "version": "[8.0.7, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.7, )"
             },
